@@ -1,5 +1,5 @@
 <h1 align="left">Olá 👋</h1>
-<h4 align="left">Desenvolvedor de software com 4 anos de experiência onde tive oportunidade de trabalhar com projetos de Governença de Cadastros e LGPD</h4>
+<h4 align="left">Desenvolvedor de software com 4 anos de experiência, tive oportunidade de trabalhar com projetos voltados a LGPD e Workflow</h4>
 
 🔭 **Atuando como fullstack**
  - C#
