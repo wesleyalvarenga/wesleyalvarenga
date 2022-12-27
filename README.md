@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wesleyalvarenga" alt="wesleyalvarenga" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em um projeto [Auth](https://github.com/pagarme)
+- 🔭 Atualmente estou trabalhando em um projeto de no [Auth](https://github.com/pagarme)
 
 - 🌱 Estou aprendendo sobre **React, React Native, Event Sourcing e Arquitetura**
 
