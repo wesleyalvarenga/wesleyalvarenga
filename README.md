@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, sou o Wesley</h1>
-<h3 align="center">Desenvolvedor back-end</h3>
+<h3>Olá 👋, sou o Wesley</h1>
+<h4>Desenvolvedor back-end</h3>
 
 - 🔭 Atualmente estou trabalhando em um projeto de no [Auth](https://github.com/pagarme)
 
