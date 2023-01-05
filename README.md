@@ -1,10 +1,6 @@
 <h1 align="center">Olá 👋, sou o Wesley</h1>
 <h3 align="center">Desenvolvedor back-end</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleyalvarenga&label=Profile%20views&color=0e75b6&style=flat" alt="wesleyalvarenga" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wesleyalvarenga" alt="wesleyalvarenga" /></a> </p>
-
 - 🔭 Atualmente estou trabalhando em um projeto de no [Auth](https://github.com/pagarme)
 
 - 🌱 Estou aprendendo sobre **React, React Native, Event Sourcing e Arquitetura**
